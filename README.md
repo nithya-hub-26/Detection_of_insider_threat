@@ -24,4 +24,7 @@ ADVANTAGES:
 
 Our project is implemented with LSTM so it has a memory to store the previous data input with which they can understand the patterns better than then ML models. Another major advantage is that for this project even if an organisation has only the normal user data it is enough to train the model no need of implementing an attack and observing its parameters by providing more amount of normal user data which will be easy for an organisation to get from their network traffic we could identify an insider.
 
+CONCLUSION:
+
+Clearly, on comparing isolation forests and one-class SVM with the LSTM, it is observed that the LSTM algorithm has a higher accuracy of 76% than 49% of Isolation Forest and 66% of one-class SVM . Thus, it is seen that for detection of insider threat, the better algorithm is LSTM and the LSTM algorithm performed with the best accuracy on this dataset. It is proved that deep learning method provides more accuracy than machine learning method since deep learning suits for this type of network traffic dataset.
 
